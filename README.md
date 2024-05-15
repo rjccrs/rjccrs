@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjccrs
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning SOC analyst.
+- 👀 I’m interested in Cyber Security specifically SOC analysis and Penetration Testing.
+- 🌱 I’m currently learning Cyber Security
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
